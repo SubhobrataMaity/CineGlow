@@ -1,0 +1,3 @@
+# Ignore only model files in backend
+movie_list.pkl
+similarity.pkl
